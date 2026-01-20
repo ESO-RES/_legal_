@@ -1,8 +1,6 @@
 # Governance Framework
 
-![image](https://github.com/user-attachments/assets/3a29dbea-2272-40bc-aa36-100c952f7b8b)
-
-
+![image](https://github.com/user-attachments/assets/15160c6d-56dc-4cbf-89f7-13cea382ddbe)
 
 **Board Motions · Executive Authority · Governance Artifacts · Policy Notes · Stress Testing · Execution Roadmap**
 
