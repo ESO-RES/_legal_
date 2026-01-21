@@ -292,7 +292,10 @@ At completion:
 
 **End of Governance Framework**
 
-![image](https://github.com/user-attachments/assets/b9c57272-c058-46b5-ac54-6b7e8e110140)
+![image](https://github.com/user-attachments/assets/dcc26235-be04-41bb-84ae-3902600018cd)
 
-![image](https://github.com/user-attachments/assets/7aefcb00-1ab8-4a2f-b211-d616cd018681)
+![image](https://github.com/user-attachments/assets/dd06c316-92c9-4763-a803-1f25bb807076)
+
+![image](https://github.com/user-attachments/assets/83722bc1-a42e-421e-8219-298f9070ada2)
+
 
