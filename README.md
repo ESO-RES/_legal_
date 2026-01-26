@@ -1,5 +1,5 @@
 # Governance Framework
-UPDATED:1/25/2026
+UPDATED:1/26/2026
 ![image](https://github.com/user-attachments/assets/837b411f-4d0a-45a2-a63c-d2a11f77b056)
 
 
@@ -296,3 +296,6 @@ At completion:
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3728d12a-58a8-45d8-a84b-7a5572428b81" />
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7882301-ce54-4cb8-b5c8-7d080aa70f24" />
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8123578a-5cbc-4e69-8da2-da43224c36ea" />
