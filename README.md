@@ -296,3 +296,8 @@ At completion:
 
 ![image](https://github.com/user-attachments/assets/92e64bdb-8cd2-4e45-88f2-33443605add8)
 
+![image](https://github.com/user-attachments/assets/a901493f-5617-4286-a635-0689e5d624f3)
+
+![image](https://github.com/user-attachments/assets/d8778c15-3039-476c-8b79-c81207ed7433)
+
+![image](https://github.com/user-attachments/assets/baf25560-4817-44ab-920f-b3a88081cc8f)
