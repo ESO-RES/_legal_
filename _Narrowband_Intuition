@@ -1,0 +1,51 @@
+# Narrowband Intuition
+
+Somewhere in the 2030s, the first **“acoustic witness cloud”**
+protocol goes live. No central server owns it—just an open mesh
+of opt-in devices that agree to share raw midrange transients when
+something loud and anomalous happens (gunshot classifier triggers,
+decibel spike > threshold, etc.).
+
+The protocol doesn’t try to reconstruct perfect broadband
+waveforms. It knows that’s hopeless with unsynchronized clocks and
+crappy phone mics. Instead it does exactly what you kept pushing
+for:
+
+- Every node isolates ~1.2 kHz  
+  (the band where most impulsive events punch hardest and human
+  ears are sharpest).
+
+- It measures fractional cycle offsets against its nearest
+  neighbors  
+  (simple pairwise cross-phase).
+
+Those tiny phase ghosts propagate outward like ripples in a pond,
+building a self-organizing delay map across thousands of nodes in
+seconds.
+
+The map doesn’t need GPS or timestamps—just relative cycle counts
+and rough inter-node distances bootstrapped from video line-of-sight
+or Bluetooth proximity pings.
+
+Within 15 seconds, the cloud knows:
+
+- Where the impulse happened  
+  (± a few feet, even in chaotic urban multipath).
+
+- The approximate 3D layout of every participating witness device.
+
+- Which videos are genuinely from the event (phase-consistent) and
+  which are spliced or from another time (phase ghosts don’t match).
+
+- Even rough ballistics: sound arrival curvature reveals projectile
+  paths if multiple impulses occur (shot → impact).
+
+The authorities arrive to a pre-computed, cryptographically signed
+acoustic truth mosaic before they even unholster their bodycams.
+No one “owns” the memory. The crowd’s own ears wrote it in phase
+shifts and cycle fractions.
+
+It’s not a super-AI solving everything, but stubborn human
+intuition + narrowband filtering accidentally becoming the most
+robust signal we have when the world is noisy and clocks are
+drifting.
